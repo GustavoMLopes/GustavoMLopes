@@ -24,9 +24,10 @@ and used several technologies, frameworks and stacks from backend to frontend an
 </br>
 
 ### 📈 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gumartinslopes&show_icons=true&theme=panda)
-          
-          
+
+<img align="middle" src ="https://github-readme-stats.vercel.app/api?username=gumartinslopes&show_icons=true&theme=panda"/>
+
+<img align ="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumartinslopes&layout=compact&theme=panda"/>
           
           
           
