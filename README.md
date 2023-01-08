@@ -5,7 +5,7 @@ and used several technologies, frameworks and stacks from backend to frontend an
 
 ---
 ### 🛠️ Languages and Tools
-
+<div style="display: flex; justify-content: center"> 
 <img align="left" alt="Java" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" stype="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Vs Code" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -20,14 +20,15 @@ and used several technologies, frameworks and stacks from backend to frontend an
 <img align="left" alt="Node Js" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="HTML5" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</div>
 </br>
 </br>
 
 ### 📈 Github Stats
-
-<img align="middle" src ="https://github-readme-stats.vercel.app/api?username=gumartinslopes&show_icons=true&theme=panda"/>
-
-<img align ="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumartinslopes&layout=compact&theme=panda"/>
+<div style="display: flex; justify-content: center"> 
+    <img align="middle"  src ="https://github-readme-stats.vercel.app/api?username=gumartinslopes&show_icons=true&theme=panda"/>
+    <img align ="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumartinslopes&layout=compact&theme=panda"/>
+</div>
           
           
           
