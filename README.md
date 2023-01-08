@@ -3,7 +3,7 @@
 I'm currently a computer science student at the Pontifical Catholic University of Minas Gerais. I've been programming for over three years
 and used several technologies, frameworks and stacks from backend to frontend and mobile.
 
----
+#
 ### 🛠️ Languages and Tools
 <img align="left" alt="Java" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" stype="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
