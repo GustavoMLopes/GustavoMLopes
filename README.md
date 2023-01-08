@@ -31,7 +31,7 @@ and used several technologies, frameworks and stacks from backend to frontend an
 </div>
           
           
-        
+### 📢Social    
 <div>                                                                                                                                          
   <a href="https://twitter.com/gumartinslopes" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/gumartinslopes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
