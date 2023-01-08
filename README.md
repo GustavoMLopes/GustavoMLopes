@@ -1,10 +1,10 @@
 # 👨‍🎓 Gustavo Martins
-## 😎 About Me
+### 😎 About Me
 I'm currently a computer science student at the Pontifical Catholic University of Minas Gerais. I've been programming for over three years
 and used several technologies, frameworks and stacks from backend to frontend and mobile.
 
-
-## 🛠️ Languages and Tools
+#
+### 🛠️ Languages and Tools
 <div style="display: flex; justify-content: center"> 
 <img align="left" alt="Java" width="30px" stype="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" stype="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -24,13 +24,15 @@ and used several technologies, frameworks and stacks from backend to frontend an
 </br>
 </br>
 
+#
+
 ### 📈 Github Stats
 <div style="display: flex; justify-content: center"> 
     <img align="middle"  src ="https://github-readme-stats.vercel.app/api?username=gumartinslopes&show_icons=true&theme=panda"/>
     <img align ="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumartinslopes&layout=compact&theme=panda"/>
 </div>
           
-          
+#
 ### 📢Social    
 <div>                                                                                                                                          
   <a href="https://twitter.com/gumartinslopes" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
