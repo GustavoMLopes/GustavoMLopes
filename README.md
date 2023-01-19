@@ -23,14 +23,6 @@ and used several technologies, frameworks and stacks from backend to frontend an
 </div>
 </br>
 </br>
-
-#
-
-### 📈 Github Stats
-<div style="display: flex; justify-content: center"> 
-    <img align="middle"  src ="https://github-readme-stats.vercel.app/api?username=gumartinslopes&show_icons=true&theme=panda"/>
-    <img align ="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumartinslopes&layout=compact&theme=panda"/>
-</div>
           
 #
 ### 📢Social    
